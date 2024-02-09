@@ -1,6 +1,6 @@
 # Royal Lullaby
 
-_Rhythmancy cantrip (enchantment)_
+_Enchantment/rhythmancy cantrip_
 
 - **Casting Time:** 1 action
 - **Range:** 10 feet
