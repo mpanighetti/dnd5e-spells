@@ -13,11 +13,11 @@ A collection of homebrew 5e spells.
 
 #### 1st-level
 
-- Equine Tribute (conjuration/rhythmancy)
-- The Lost is Found (diviniation/rhythmancy, ritual)
-- Song of Storms (evocation/rhythmancy)
-- Song of Time (abjuration/rhythmancy)
-- Summoning of the Scarecrow (conjuration/rhythmancy)
+- [Equine Tribute](1st-level/equine-tribute.md) (conjuration/rhythmancy)
+- [The Lost is Found](1st-level/the-lost-is-found.md) (diviniation/rhythmancy, ritual)
+- [Song of Storms](1st-level/song-of-storms.md) (evocation/rhythmancy)
+- [Song of Time](1st-level/song-of-time.md) (abjuration/rhythmancy)
+- [Summoning of the Scarecrow](1st-level/summoning-of-the-scarecrow.md) (conjuration/rhythmancy)
 
 #### 2nd-level
 
