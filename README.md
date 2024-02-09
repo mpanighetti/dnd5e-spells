@@ -30,12 +30,12 @@ If a resource was written for another 5e homebrew document, it will include a li
 - [Song of Discovery](2nd-level/song-of-discovery.md) (divination/rhythmancy, ritual)
 
 #### 3rd-level
-- New Wave Bossa Nova (abjuration/rhythmancy)
-- Peaceful Lullaby (enchantment/rhythmancy)
-- Royal Duet (evocation/rhythmancy, duet)
-- Song of Double Time (abjuration/rhythmancy)
-- Tune of Echoes (divination/rhythmancy, ritual)
-- Wind's Requiem (conjuration/rhythmancy, ritual)
+- [New Wave Bossa Nova](3rd-level/new-wave-bossa-nova.md) (abjuration/rhythmancy)
+- [Peaceful Lullaby](3rd-level/peaceful-lullaby.md) (enchantment/rhythmancy)
+- [Royal Duet](3rd-level/royal-duet.md) (evocation/rhythmancy, duet)
+- [Song of Double Time](1st-level/song-of-time.md) (abjuration/rhythmancy)
+- [Tune of Echoes](3rd-level/tune-of-echoes.md) (divination/rhythmancy, ritual)
+- [Wind's Requiem](3rd-level/winds-requiem.md) (conjuration/rhythmancy, ritual)
 
 #### 4th-level
 - Death's Departure (abjuration/rhythmancy)
@@ -46,7 +46,7 @@ If a resource was written for another 5e homebrew document, it will include a li
 - Wind God's Aria (evocation/rhythmancy)
 
 #### 5th-level
-- Inverted Song of Time (abjuration/rhythmancy)
+- [Inverted Song of Time](1st-level/song-of-time.md) (abjuration/rhythmancy)
 - Melody of Darkness (necromancy/rhythmancy)
 - Song of Healing (evocation/rhythmancy)
 - Song of Passing (illusion/rhythmancy)
