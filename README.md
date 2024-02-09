@@ -7,8 +7,8 @@ A collection of homebrew 5e spells.
 
 #### Cantrips
 
-- [Ballad of the Dreamer](cantrips/ballad-of-the-dreamer.md)
-- [Royal Lullaby](cantrips/royal-lullaby.md)
+- [Ballad of the Dreamer](cantrips/ballad-of-the-dreamer.md) (abjuration/rhythmancy)
+- [Royal Lullaby](cantrips/royal-lullaby.md) (enchantment/rhythmancy)
 
 #### 1st-level
 
