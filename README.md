@@ -7,7 +7,7 @@ A collection of homebrew 5e spells.
 
 #### Cantrips
 
-- [Royal Lullaby](cantrios/royal-lullaby.md)
+- [Royal Lullaby](cantrips/royal-lullaby.md)
 
 #### 1st-level
 
