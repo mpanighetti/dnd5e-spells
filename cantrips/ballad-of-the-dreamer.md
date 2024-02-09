@@ -11,4 +11,4 @@ You play a soothing melody that conjures strange memories of a dream-like world.
 
 ---
 
-_Source: [dnd5e-rhythmancy](https://github.com/mpanighetti/dnd5e-rhythmancy)_
+_Source: [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_

@@ -13,4 +13,4 @@ Your temporary proficiency in these Charisma checks is further strengthened when
 
 ---
 
-_Source: [dnd5e-rhythmancy](https://github.com/mpanighetti/dnd5e-rhythmancy)_
+_Source: [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_

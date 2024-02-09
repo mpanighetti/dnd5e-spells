@@ -13,4 +13,4 @@ The spell creates more than one bird when you reach higher levels: two birds at 
 
 ---
 
-_Source: [dnd5e-rhythmancy](https://github.com/mpanighetti/dnd5e-rhythmancy)_
+_Source: [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_
