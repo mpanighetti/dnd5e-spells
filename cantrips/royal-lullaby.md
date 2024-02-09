@@ -10,3 +10,7 @@ _Enchantment/rhythmancy cantrip_
 Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to be proficient in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
 
 Your temporary proficiency in these Charisma checks is further strengthened when you reach higher levels: your proficiency bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
+
+---
+
+_Source: [dnd5e-rhythmancy](https://github.com/mpanighetti/dnd5e-rhythmancy)_

@@ -8,3 +8,7 @@ _Abjuration/rhythmancy cantrip_
 - **Duration:** 10 minutes
 
 You play a soothing melody that conjures strange memories of a dream-like world. Until the spell ends, magic can’t put you to sleep.
+
+---
+
+_Source: [dnd5e-rhythmancy](https://github.com/mpanighetti/dnd5e-rhythmancy)_
