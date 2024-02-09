@@ -5,6 +5,44 @@ A collection of homebrew 5e spells.
 
 ### Spells
 
+#### Cantrips
+
+- [Royal Lullaby](cantrios/royal-lullaby.md)
+
+#### 1st-level
+
+- TBD
+
+#### 2nd-level
+
+- TBD
+
+#### 3rd-level
+
+- TBD
+
+#### 4th-level
+
+- TBD
+
+#### 5th-level
+
+- TBD
+
+#### 6th-level
+
+- TBD
+
+#### 7th-level
+
+- TBD
+ 
+#### 8th-level
+
+- TBD
+
+#### 9th-level
+
 - TBD
 
 ## Credits
