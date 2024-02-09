@@ -23,11 +23,11 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 #### 2nd-level
 
-- Command Melody (conjuration/rhythmancy, ritual)
-- Duet of Restoration (evocation/rhythmancy, duet)
-- Elegy of Emptiness (conjuration/rhythmancy)
-- Sonata of Awakening (abjuration/rhythmancy)
-- Song of Discovery (divination/rhythmancy, ritual)
+- [Command Melody](2nd-level/command-melody.md) (conjuration/rhythmancy, ritual)
+- [Duet of Restoration](2nd-level/duet-of-restoration.md) (evocation/rhythmancy, duet)
+- [Elegy of Emptiness](2nd-level/elegy-of-emptiness.md) (conjuration/rhythmancy)
+- [Sonata of Awakening](2nd-level/sonata-of-awakening.md) (abjuration/rhythmancy)
+- [Song of Discovery](2nd-level/song-of-discovery.md) (divination/rhythmancy, ritual)
 
 #### 3rd-level
 - New Wave Bossa Nova (abjuration/rhythmancy)
