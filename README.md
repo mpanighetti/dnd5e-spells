@@ -47,20 +47,20 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 #### 5th-level
 - [Inverted Song of Time](1st-level/song-of-time.md) (abjuration/rhythmancy)
-- Melody of Darkness (necromancy/rhythmancy)
-- Song of Healing (evocation/rhythmancy)
-- Song of Passing (illusion/rhythmancy)
-- Tune of Currents (abjuration/rhythmancy)
+- [Melody of Darkness](5th-level/melody-of-darkness.md) (necromancy/rhythmancy)
+- [Song of Healing](5th-level/song-of-healing.md) (evocation/rhythmancy)
+- [Song of Passing](5th-level/song-of-passing.md) (illusion/rhythmancy)
+- [Tune of Currents](5th-level/tune-of-currents.md) (abjuration/rhythmancy)
 
 #### 6th-level
-- The River Devil's Lament (enchantment/rhythmancy)
+- [The River Devil's Lament](6th-level/the-river-devils-lament.md) (enchantment/rhythmancy)
 
 #### 7th-level
-- Tune of Ages (conjuration/rhythmancy)
+- [Tune of Ages](7th-level/tune-of-ages.md) (conjuration/rhythmancy)
 
 #### 8th-level
-- Ballad of Gales (conjuration/rhythmancy)
-- Oath to Order (abjuration/rhythmancy)
+- [Ballad of Gales](8th-level/ballad-of-gales.md) (conjuration/rhythmancy)
+- [Oath to Order](8th-level/oath-to-order.md) (abjuration/rhythmancy)
 
 #### 9th-level
 
