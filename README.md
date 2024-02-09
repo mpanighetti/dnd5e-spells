@@ -8,6 +8,7 @@ A collection of homebrew 5e spells.
 #### Cantrips
 
 - [Ballad of the Dreamer](cantrips/ballad-of-the-dreamer.md) (abjuration/rhythmancy)
+- [The Hawk's Call](cantrips/the-hawks-call.md) (evocation/rhythmancy)
 - [Royal Lullaby](cantrips/royal-lullaby.md) (enchantment/rhythmancy)
 
 #### 1st-level
