@@ -38,12 +38,12 @@ If a resource was written for another 5e homebrew document, it will include a li
 - [Wind's Requiem](3rd-level/winds-requiem.md) (conjuration/rhythmancy, ritual)
 
 #### 4th-level
-- Death's Departure (abjuration/rhythmancy)
-- Earth God's Lyric (evocation/rhythmancy)
-- Frog's Song of Soul (necromancy/rhythmancy)
-- Minute Minuet (transmutation/rhythmancy)
-- Space Warp (conjuration/rhythmancy, ritual)
-- Wind God's Aria (evocation/rhythmancy)
+- [Death's Departure](4th-level/deaths-departure.md) (abjuration/rhythmancy)
+- [Earth God's Lyric](4th-level/earth-gods-lyric.md) (evocation/rhythmancy)
+- [Frog's Song of Soul](4th-level/frogs-song-of-soul.md) (necromancy/rhythmancy)
+- [Minute Minuet](4th-level/minute-minuet.md) (transmutation/rhythmancy)
+- [Space Warp](4th-level/space-warp.md) (conjuration/rhythmancy, ritual)
+- [Wind God's Aria](4th-level/wind-gods-aria.md) (evocation/rhythmancy)
 
 #### 5th-level
 - [Inverted Song of Time](1st-level/song-of-time.md) (abjuration/rhythmancy)
