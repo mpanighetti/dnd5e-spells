@@ -1,5 +1,5 @@
 # dnd5e-spells
-A collection of homebrew 5e spells.
+A collection of 5e spells homebrew.
 
 ## Resources
 
