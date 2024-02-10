@@ -32,11 +32,11 @@ If a resource was written for another 5e homebrew document, it will include a li
 | 4 | _[Earth God's Lyric](4th-level/earth-gods-lyric.md)_ | Evocation/Rhythmancy | no | no | Bard |
 | 4 | _[Frog's Song of Soul](4th-level/frogs-song-of-soul.md)_ | Necromancy/Rhythmancy | no | no | Bard |
 | 4 | _[Minute Minuet](4th-level/minute-minuet.md)_ | Transmutation/Rhythmancy | yes | no | Bard |
-| 4 | _[Space Warp](4th-level/space-warp.md)_ | conjuration/Rhythmancy | no | yes | Bard |
+| 4 | _[Space Warp](4th-level/space-warp.md)_ | Conjuration/Rhythmancy | no | yes | Bard |
 | 4 | _[Wind God's Aria](4th-level/wind-gods-aria.md)_ | Evocation/Rhythmancy | no | no | Bard |
 | 5 | _[Inverted Song of Time](1st-level/song-of-time.md)_[^†] | Abjuration/Rhythmancy | no | no | Bard |
 | 5 | _[Melody of Darkness](5th-level/melody-of-darkness.md)_ | Necromancy/Rhythmancy | yes | no | Bard |
-| 5 | _[Song of Healing](5th-level/song-of-healing.md)_ | (Evocation/Rhythmancy | no | no | Bard |
+| 5 | _[Song of Healing](5th-level/song-of-healing.md)_ | Evocation/Rhythmancy | no | no | Bard |
 | 5 | _[Song of Passing](5th-level/song-of-passing.md)_ | Illusion/Rhythmancy | yes | no | Bard |
 | 5 | _[Tune of Currents](5th-level/tune-of-currents.md)_ | Abjuration/Rhythmancy | no | no | Bard |
 | 6 | _[The River Devil's Lament](6th-level/the-river-devils-lament.md)_ | Enchantment/Rhythmancy | no | no | Bard |
