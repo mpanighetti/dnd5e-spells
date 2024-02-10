@@ -7,9 +7,9 @@ _7th-level conjuration/rhythmancy_
 - **Components:** V, S, M (a magic item or a willing creature from the destination time period; a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 
-You and up to eight willing creatures within range are removed from your current time period and appear in the same physical location in another time period you specify.
+You and up to eight willing creatures within range are removed from your current time period and appear in the same physical location in another time period you choose.
 
-To cast this spell, you must either currently be holding a magic item or include a willing creature who exists in the time period you wish to reach in the spell's range, and you must be aware of the time period within one year of accuracy.
+The selected time period must at least specify the destination year, but can be more specific if desired. Additionally, the magic item or willing creature specified in the spell's material components must have existed in the time period you specify and must accompany you in the time travel. If any of these conditions are not met, the spell fails.
 
 ---
 
