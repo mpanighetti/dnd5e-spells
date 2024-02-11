@@ -13,7 +13,11 @@ You adjust the flow of time around you, granting you the ability to correct a re
 
 If desired, you can alter the performance of the Song of Time to a related composition to create one of the following effects, which replace the spell's normal 1st-level effects:
 
+## Song of Double Time
+
 **Song of Double Time (3rd-level or higher).** By playing the Song of Time twice as fast, you move yourself to a moment in the near future, bypassing current events. Select any moment in time in the future up to the end of the spell's duration. You temporarily vanish from existence. At the moment in time you selected when casting the spell, you reappear in the same space from where you vanished, or in the nearest location if that space is occupied. From your perspective, no time has passed. When you reappear, the spell ends.
+
+## Inverted Song of Time
 
 **Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity saving throws, and you gain an additional action on each of your turns.
 
