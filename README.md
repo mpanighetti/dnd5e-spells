@@ -25,7 +25,7 @@ If a resource was written for another 5e homebrew document, it will include a li
 | 3 | _[New Wave Bossa Nova](3rd-level/new-wave-bossa-nova.md)_ | Abjuration/Rhythmancy | yes | no | Bard |
 | 3 | _[Peaceful Lullaby](3rd-level/peaceful-lullaby.md)_ | Enchantment/Rhythmancy | yes | no | Bard |
 | 3 | _[Royal Duet](3rd-level/royal-duet.md)_ | Evocation/Rhythmancy | no | no | Bard |
-| 3 | _[Song of Double Time](1st-level/song-of-time.md)_[^†] | Abjuration/Rhythmancy | no | no | Bard |
+| 3 | _[Song of Double Time](1st-level/song-of-time.md#song-of-double-time)_[^†] | Abjuration/Rhythmancy | no | no | Bard |
 | 3 | _[Tune of Echoes](3rd-level/tune-of-echoes.md)_ | Divination/Rhythmancy | yes | yes | Bard |
 | 3 | _[Wind's Requiem](3rd-level/winds-requiem.md)_ | Conjuration/Rhythmancy | yes | yes | Bard |
 | 4 | _[Death's Departure](4th-level/deaths-departure.md)_ | Abjuration/Rhythmancy | yes | no | Bard |
@@ -34,7 +34,7 @@ If a resource was written for another 5e homebrew document, it will include a li
 | 4 | _[Minute Minuet](4th-level/minute-minuet.md)_ | Transmutation/Rhythmancy | yes | no | Bard |
 | 4 | _[Space Warp](4th-level/space-warp.md)_ | Conjuration/Rhythmancy | no | yes | Bard |
 | 4 | _[Wind God's Aria](4th-level/wind-gods-aria.md)_ | Evocation/Rhythmancy | no | no | Bard |
-| 5 | _[Inverted Song of Time](1st-level/song-of-time.md)_[^†] | Abjuration/Rhythmancy | no | no | Bard |
+| 5 | _[Inverted Song of Time](1st-level/song-of-time.md#inverted-song-of-time)_[^†] | Abjuration/Rhythmancy | no | no | Bard |
 | 5 | _[Melody of Darkness](5th-level/melody-of-darkness.md)_ | Necromancy/Rhythmancy | yes | no | Bard |
 | 5 | _[Song of Healing](5th-level/song-of-healing.md)_ | Evocation/Rhythmancy | no | no | Bard |
 | 5 | _[Song of Passing](5th-level/song-of-passing.md)_ | Illusion/Rhythmancy | yes | no | Bard |
