@@ -5,6 +5,8 @@ A collection of 5e spells homebrew.
 
 ### Spells
 
+Spells are arranged by spell level and listed alphabetically.
+
 | Level | Spell | School | Class | Tags | Source |
 |:-:|:-|:-|:-|:-|:-|
 | cantrip | _[Ballad of the Dreamer](cantrips/ballad-of-the-dreamer.md)_ | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
