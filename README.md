@@ -3,6 +3,8 @@ A collection of 5e homebrew spells, as well as new options for existing spells.
 
 ## Resources
 
+If a resource was written for another 5e homebrew document, it will include a link to the source at the bottom of its page.
+
 ### Spells
 
 #### Spell List
