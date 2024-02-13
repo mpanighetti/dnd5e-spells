@@ -46,6 +46,8 @@ Spells are arranged by spell level and listed alphabetically.
 | 8th | _[Ballad of Gales](8th-level/ballad-of-gales.md)_ | Conjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 8th | _[Oath to Order](8th-level/oath-to-order.md)_ | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 
+[^🪈]: These rhythmancy songs are grouped as the Song of Time.
+
 #### Spell Options
 
 - [Reincarnate](spell-options/reincarnate.md)
@@ -78,6 +80,8 @@ _One Grung Above_ © 2017 Wizards of the Coast LLC.
 
 _Sword Coast Adventurer's Guide_ © 2018 Wizards of the Coast LLC.
 
+_Mordenkainen's Tome of Foes_ © 2018 Wizards of the Coast LLC.
+
 _Guildmasters' Guide to Ravnica_ © 2018 Wizards of the Coast LLC.
 
 _Acquisitions Incorporated_ © 2019 Wizards of the Coast LLC.
@@ -101,5 +105,3 @@ _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
 _Dragonlance: Shadow of the Dragon Queen_ © 2022 Wizards of the Coast LLC.
 
 _2024 Player's Handbook_ © 2024 Wizards of the Coast LLC.
-
-[^🪈]: These rhythmancy songs are grouped as the Song of Time.
