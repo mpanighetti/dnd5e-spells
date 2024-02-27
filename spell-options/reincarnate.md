@@ -106,14 +106,8 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 |:--:|:----------------------|
 | 1  |        Duergar        |
 | 2  |       Hill Dwarf      |
-| 3  |     Mountain Dwarf    |
-| 4  | Dragonmarked Dwarf (roll on **[Dragonmarked Dwarves](#dragonmarked-dwarves)** table for dragonmark) |
-
-#### Dragonmarked Dwarves
-| d2 |        Dragonmark         |
-|:--:|:--------------------------|
-| 1  |   Mark of Warding Dwarf   |
-| 2  | Aberrant Dragonmark Dwarf |
+| 3  | Mark of Warding Dwarf |
+| 4  |     Mountain Dwarf    |
 
 ### Elven Lineages
 | d10|      Ancestry      |
@@ -123,11 +117,11 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 3  |        Eladrin     |
 | 4  | Half-Elf (roll on **[Half-Elves](#half-elves)** table for variant) |
 | 5  | High Elf (roll on **[High Elves](#high-elves)** table for variant) |
-| 6  |      Pallid Elf    |
-| 7  |       Sea Elf      |
-| 8  |      Shadar-kai    |
-| 9  | Wood Elf (roll on **[Wood Elves](#wood-elves)** table for variant) |
-| 10 | Dragonmarked Elf (roll on **[Dragonmarked Elves](#dragonmarked-elves)** table for dragonmark) |
+| 6  | Mark of Shadow Elf |
+| 7  |      Pallid Elf    |
+| 8  |       Sea Elf      |
+| 9  |      Shadar-kai    |
+| 10 | Wood Elf (roll on **[Wood Elves](#wood-elves)** table for variant) |
 
 #### Half-Elves
 | d6 |          Variant           |
@@ -140,11 +134,10 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 6  | Dragonmarked Half-Elf (roll on **[Dragonmarked Half-Elves](#dragonmarked-half-elves)** table for dragonmark) |
 
 ##### Dragonmarked Half-Elves
-| d3 |         Dragonmark           |
+| d2 |         Dragonmark           |
 |:--:|:-----------------------------|
 | 1  |  Mark of Detection Half-Elf  |
 | 2  |    Mark of Storm Half-Elf    |
-| 3  | Aberrant Dragonmark Half-Elf |
 
 #### High Elves
 | d3 |     Variant      |
@@ -159,12 +152,6 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 1  |     Wood Elf     |
 | 2  | Aereni Wood Elf  |
 | 3  | Valenar Wood Elf |
-
-#### Dragonmarked Elves
-| d2 |       Dragonmark        |
-|:--:|:------------------------|
-| 1  |    Mark of Shadow Elf   |
-| 2  | Aberrant Dragonmark Elf |
 
 ### Fiendish Legacies
 | d5 |     Ancestry      |
@@ -215,18 +202,12 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 2 | Githzerai |
 
 ### Gnomish Lineages
-| d4 |       Ancestry         |
-|:--:|:-----------------------|
-| 1  |      Deep Gnome        |
-| 2  |     Forest Gnome       |
-| 3  |      Rock Gnome        |
-| 4  | Dragonmarked Gnome (roll on **[Dragonmarked Gnomes](#dragonmarked-gnomes)** table for dragonmark) |
-
-#### Dragonmarked Gnomes
-| d2 |        Dragonmark         |
-|:--:|:--------------------------|
-| 1  |   Mark of Scribing Gnome  |
-| 2  | Aberrant Dragonmark Gnome |
+| d4 |         Ancestry         |
+|:--:|:-------------------------|
+| 1  |        Deep Gnome        |
+| 2  |       Forest Gnome       |
+| 3  |   Mark of Scribing Gnome |
+| 4  |        Rock Gnome        |
 
 ### Goblinoids
 | d3 | Ancestry  |
@@ -245,11 +226,10 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 5  | Dragonmarked Halfling (roll on **[Dragonmarked Halflings](#dragonmarked-halflings)** table for dragonmark) |
 
 #### Dragonmarked Halflings
-| d3 |         Dragonmark           |
+| d2 |         Dragonmark           |
 |:--:|:-----------------------------|
 | 1  |   Mark of Healing Halfling   |
 | 2  | Mark of Hospitality Halfling |
-| 3  | Aberrant Dragonmark Halfling |
 
 ### Humans
 | d3 |        Ancestry          |
@@ -259,14 +239,13 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 3  | Dragonmarked Human (roll on **[Dragonmarked Humans](#dragonmarked-humans)** table for dragonmark) |
 
 #### Dragonmarked Humans
-| d6 |        Dragonmark         |
+| d5 |        Dragonmark         |
 |:--:|:--------------------------|
 | 1  |   Mark of Finding Human   |
 | 2  |   Mark of Handling Human  |
 | 3  |    Mark of Making Human   |
 | 4  |   Mark of Passage Human   |
 | 5  |  Mark of Sentinel Human   |
-| 6  | Aberrant Dragonmark Human |
 
 ### Orcs
 | d2 | Ancestry|
@@ -275,16 +254,10 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 2  | Half-Orc (roll on **[Half-Orcs](#half-orcs)** table for variant) |
 
 #### Half-Orcs
-| d2 |        Variant           |
-|:--:|:-------------------------|
-| 1  |       Half-Orc           |
-| 2  | Dragonmarked Half-Orc (roll on **[Dragonmarked Half-Orcs](#dragonmarked-half-orcs)** table for dragonmark) |
-
-##### Dragonmarked Half-Orcs
-| d2 |          Dragonmark          |
+| d2 |            Variant           |
 |:--:|:-----------------------------|
-| 1  |   Mark of Finding Half-Orc   |
-| 2  | Aberrant Dragonmark Half-Orc |
+| 1  |           Half-Orc           |
+| 2  |   Mark of Finding Half-Orc   |
 
 ### Shifters
 | d4 |  Ancestry   |
