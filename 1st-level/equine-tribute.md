@@ -9,7 +9,7 @@ _1st-level conjuration/rhythmancy_
 
 You recant the tale of a great hero's beloved horse companion to endear yourself to a horse with an Intelligence score less than 10 within range; at the Game Master's discretion, you can target a creature other than a horse, as long as they are at least one size category larger than you and have an appropriate anatomy to serve as your mount. If the target is willing, is able to hear you, and remains within range for the entire casting of the spell, they are considered to be your companion.
 
-A companion is your ally. In combat, they share your initiative count, and they function as a controlled mount (as defined in the rules on mounted combat). If you have the Incapacitated condition, your companion takes their turn immediately after yours and acts independently, focusing on protecting you. A creature can only be a companion to one other creature at a time.
+A companion is your ally. In combat, they share your initiative count, and they function as a controlled mount (as defined in the rules on mounted combat). If you are Incapacitated, your companion takes their turn immediately after yours and acts independently, focusing on protecting you. A creature can only be a companion to one other creature at a time.
 
 When you cast this spell and already have a companion, instead of making a new companion, you can either teleport your companion to a location within range (or the nearest unoccupied space that can accommodate your companion), or send your companion within range to the last location you summoned them from.
 

@@ -11,7 +11,7 @@ If you occupy a vehicle the entire time you cast this spell, you summon a shimme
 
 You must have seen or been physically present at the destination at least once before, and the destination must have sufficient space to accommodate the vehicle, or the spell fails. The spell also fails when targeting a ship in water if the destination is not also in water.
 
-The act of teleporting the vehicle deals it 8d6 force damage, ignoring damage thresholds.
+The act of teleporting the vehicle deals it 8d6 Force damage, ignoring damage thresholds.
 
 ---
 

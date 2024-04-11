@@ -7,9 +7,9 @@ _4th-level conjuration/rhythmancy (ritual)_
 - **Components:** V, S, M (a musical instrument worth at least 1 gp; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)
 - **Duration:** Instantaneous
 
-You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing it to teleport to a safe location on the outskirts or outside the entrance to your destination.
+You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was Unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing them to teleport to a safe location on the outskirts or outside the entrance to your destination.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th-level or higher, you can teleport an additional willing creature you can see within range to the destination for each slot level above 5th-level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th-level or higher, you can teleport an additional willing creature you can see within range to the destination for each slot level above 5th-level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were Unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
 
 ---
 

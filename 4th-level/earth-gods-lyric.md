@@ -9,9 +9,9 @@ _4th-level evocation/rhythmancy_
 
 The notes you play resonate with the world under your feet, strengthening your bond to the earth. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
 
-Once you finish casting, until the spell ends, as long as you touch the ground, you cannot be unwillingly or forcibly removed from your location, as a magical gravitational pull holds you firm. This does not prevent you from being grappled, but a creature grappling you cannot separate you from the ground you stand on by any nonmagical means.
+Once you finish casting, until the spell ends, as long as you touch the ground, you cannot be unwillingly or forcibly removed from your location, as a magical gravitational pull holds you firm. This does not prevent you from being Grappled, but a creature Grappling you cannot separate you from the ground you stand on by any nonmagical means.
 
-Magical effects that would lift or relocate you as forced movement, such as the _levitate_ spell, end immediately and cannot target you, unless they are cast as spells at a higher level than you cast this spell. Magical effects that manipulate you into moving yourself, such as a magical charm compelling you to use your own movement, function normally.
+Magical effects that would lift or relocate you as forced movement, such as the _levitate_ spell, end immediately and cannot target you, unless they are cast as spells at a higher level than you cast this spell. Magical effects that manipulate you into moving yourself, such as being Charmed and compelled to use your own movement, function normally.
 
 If a creature attempts to teleport or planeshift you against your will and they are not using a spell cast at a higher level than this spell, they must first succeed on a spellcasting ability check (or a Wisdom check if they do not have the ability to cast spells) contested by your spell save DC, or the teleport or planeshift fails to include you as a target.
 
