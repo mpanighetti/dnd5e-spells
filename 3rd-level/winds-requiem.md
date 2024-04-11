@@ -1,6 +1,6 @@
 # Wind's Requiem
 
-_3rd-level conjuration/rhythmancy (ritual)_
+_3rd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 action
 - **Range:** Self

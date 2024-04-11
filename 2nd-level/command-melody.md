@@ -1,6 +1,6 @@
 # Command Melody
 
-_2nd-level conjuration/rhythmancy (ritual)_
+_2nd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet

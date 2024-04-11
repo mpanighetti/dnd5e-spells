@@ -11,7 +11,7 @@ The notes you play resonate with the air around you, lifting you upward and gran
 
 Until the spell ends, you gain a flying speed equal to your movement speed, or if you already have a flying speed, it is increased by 30 feet. You hover in place when you are not flying.
 
-As long as you are not touching the ground, the air pulses around your body, granting you advantage on checks you make to resist being Grappled or to escape the Grappled condition. If you succeed on such a check, as a Reaction, you can immediately move up to half your flying speed away with a burst of wind, and the creature that was Grappling you must succeed on a Strength Saving Throw against your spell save DC or they are knocked Prone. This movement doesn't provoke opportunity attacks.
+As long as you are not touching the ground, the air pulses around your body, granting you advantage on checks you make to resist being Grappled or to escape the Grappled condition. If you succeed on such a check, as a Reaction, you can immediately move up to half your flying speed away with a burst of wind, and the creature that was Grappling you must succeed on a Strength Saving Throw against your Spell Save DC or they are knocked Prone. This movement doesn't provoke opportunity attacks.
 
 If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
 

@@ -13,7 +13,7 @@ Once you finish casting, until the spell ends, as long as you touch the ground, 
 
 Magical effects that would lift or relocate you as forced movement, such as the _levitate_ spell, end immediately and cannot target you, unless they are cast as spells at a higher level than you cast this spell. Magical effects that manipulate you into moving yourself, such as being Charmed and compelled to use your own movement, function normally.
 
-If a creature attempts to teleport or planeshift you against your will and they are not using a spell cast at a higher level than this spell, they must first succeed on a spellcasting ability check (or a Wisdom check if they do not have the ability to cast spells) contested by your spell save DC, or the teleport or planeshift fails to include you as a target.
+If a creature attempts to teleport or planeshift you against your will and they are not using a spell cast at a higher level than this spell, they must first succeed on a spellcasting ability check (or a Wisdom check if they do not have the ability to cast spells) contested by your Spell Save DC, or the teleport or planeshift fails to include you as a target.
 
 If you are moved, teleported, or planeshifted against your will, this spell's effects are suspended until the relocation is complete, after which you are once again tethered to whatever ground you are touching. If you are successfully separated from the ground against your will for 1 minute or longer, the spell ends.
 

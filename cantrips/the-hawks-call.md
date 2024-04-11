@@ -1,4 +1,4 @@
-# The Hawk’s Call
+# The Hawk's Call
 
 _Evocation/rhythmancy cantrip_
 
