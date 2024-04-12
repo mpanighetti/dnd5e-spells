@@ -1,6 +1,6 @@
 # Song of Discovery
 
-_2nd-level divination/rhythmancy (Ritual)_
+_2nd-level divination/rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Self (20-foot sphere)

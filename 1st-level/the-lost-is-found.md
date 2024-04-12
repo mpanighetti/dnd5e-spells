@@ -1,6 +1,6 @@
 # The Lost is Found
 
-_1st-level divination/rhythmancy (Ritual)_
+_1st-level divination/rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Self

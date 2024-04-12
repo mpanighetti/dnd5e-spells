@@ -1,6 +1,6 @@
 # Song of Time
 
-_1st-level abjuration/rhythmancy_
+_1st-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 action
 - **Range:** Self

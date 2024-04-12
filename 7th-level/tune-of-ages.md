@@ -1,6 +1,6 @@
 # Tune of Ages
 
-_7th-level conjuration/rhythmancy_
+_7th-level conjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 30 feet

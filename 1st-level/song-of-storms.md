@@ -1,6 +1,6 @@
 # Song of Storms
 
-_1st-level evocation/rhythmancy_
+_1st-level evocation/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet (1 mile if cast outdoors)

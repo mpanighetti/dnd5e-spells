@@ -1,6 +1,6 @@
 # Ballad of the Dreamer
 
-_Abjuration/rhythmancy cantrip_
+_Abjuration/rhythmancy cantrip_ (Bard)
 
 - **Casting Time:** 1 action
 - **Range:** Self

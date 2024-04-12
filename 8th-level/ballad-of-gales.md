@@ -1,6 +1,6 @@
 # Ballad of Gales
 
-_8th-level conjuration/rhythmancy_
+_8th-level conjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Touch

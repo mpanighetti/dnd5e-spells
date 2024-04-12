@@ -1,6 +1,6 @@
 # Song of Healing
 
-_5th-level evocation/rhythmancy_
+_5th-level evocation/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Self (30-foot sphere)

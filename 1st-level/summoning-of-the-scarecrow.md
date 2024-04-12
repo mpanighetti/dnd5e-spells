@@ -1,6 +1,6 @@
 # Summoning of the Scarecrow
 
-_1st-level conjuration/rhythmancy_
+_1st-level conjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet

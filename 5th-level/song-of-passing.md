@@ -1,6 +1,6 @@
 # Song of Passing
 
-_5th-level illusion/rhythmancy_
+_5th-level illusion/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 action
 - **Range:** 30 feet

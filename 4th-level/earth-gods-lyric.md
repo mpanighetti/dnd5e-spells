@@ -1,6 +1,6 @@
 # Earth God's Lyric
 
-_4th-level evocation/rhythmancy_
+_4th-level evocation/rhythmancy_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** Self

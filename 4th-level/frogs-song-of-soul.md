@@ -1,6 +1,6 @@
 # Frog's Song of Soul
 
-_4th-level necromancy/rhythmancy_
+_4th-level necromancy/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 20 feet

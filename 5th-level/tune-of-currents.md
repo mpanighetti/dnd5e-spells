@@ -1,6 +1,6 @@
 # Tune of Currents
 
-_5th-level abjuration/rhythmancy_
+_5th-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet

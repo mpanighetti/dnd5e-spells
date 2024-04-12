@@ -1,6 +1,6 @@
 # Sonata of Awakening
 
-_2nd-level abjuration/rhythmancy_
+_2nd-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 action
 - **Range:** 30 feet

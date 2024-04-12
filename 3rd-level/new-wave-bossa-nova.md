@@ -1,6 +1,6 @@
 # New Wave Bossa Nova
 
-_3rd-level abjuration/rhythmancy_
+_3rd-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 action
 - **Range:** Self (10-foot sphere)

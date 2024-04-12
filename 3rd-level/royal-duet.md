@@ -1,6 +1,6 @@
 # Royal Duet
 
-_3rd-level evocation/rhythmancy (duet)_
+_3rd-level evocation/rhythmancy (Duet)_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet (30-foot sphere)

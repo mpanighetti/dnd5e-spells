@@ -1,6 +1,6 @@
 # The River Devil's Lament
 
-_6th-level enchantment/rhythmancy_
+_6th-level enchantment/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet

@@ -1,6 +1,6 @@
 # Melody of Darkness
 
-_5th-level necromancy/rhythmancy_
+_5th-level necromancy/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 action
 - **Range:** Self (30 foot sphere)
