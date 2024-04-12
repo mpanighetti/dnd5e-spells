@@ -22,13 +22,13 @@ Spells are arranged by spell level and listed alphabetically.
 | 1st | _[Song of Time](1st-level/song-of-time.md)_[^🪈] | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 1st | _[Summoning of the Scarecrow](1st-level/summoning-of-the-scarecrow.md)_ | Conjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 2nd | _[Command Melody](2nd-level/command-melody.md)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 2nd | _[Duet of Restoration](2nd-level/duet-of-restoration.md)_ | Evocation/Rhythmancy | Bard | duet | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 2nd | _[Duet of Restoration](2nd-level/duet-of-restoration.md)_ | Evocation/Rhythmancy | Bard | Duet | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 2nd | _[Elegy of Emptiness](2nd-level/elegy-of-emptiness.md)_ | Conjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 2nd | _[Sonata of Awakening](2nd-level/sonata-of-awakening.md)_ | Abjuration/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 2nd | _[Song of Discovery](2nd-level/song-of-discovery.md)_ | Divination/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[New Wave Bossa Nova](3rd-level/new-wave-bossa-nova.md)_ | Abjuration/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[Peaceful Lullaby](3rd-level/peaceful-lullaby.md)_ | Enchantment/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 3rd | _[Royal Duet](3rd-level/royal-duet.md)_ | Evocation/Rhythmancy | Bard | duet | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 3rd | _[Royal Duet](3rd-level/royal-duet.md)_ | Evocation/Rhythmancy | Bard | Duet | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[Song of Double Time](1st-level/song-of-time.md#song-of-double-time)_[^🪈] | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[Tune of Echoes](3rd-level/tune-of-echoes.md)_ | Divination/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[Wind's Requiem](3rd-level/winds-requiem.md)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
