@@ -24,6 +24,7 @@ Spells are arranged by spell level and listed alphabetically.
 | 2nd | _[Command Melody](2nd-level/command-melody.md)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 2nd | _[Duet of Restoration](2nd-level/duet-of-restoration.md)_ | Evocation/Rhythmancy | Bard | Duet | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 2nd | _[Elegy of Emptiness](2nd-level/elegy-of-emptiness.md)_ | Conjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 2nd | _[Pass without Note](2nd-level/pass-without-note.md)_ | Enchantment | Bard, Sorcerer, Warlock, Wizard | | |
 | 2nd | _[Sonata of Awakening](2nd-level/sonata-of-awakening.md)_ | Abjuration/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 2nd | _[Song of Discovery](2nd-level/song-of-discovery.md)_ | Divination/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[New Wave Bossa Nova](3rd-level/new-wave-bossa-nova.md)_ | Abjuration/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
