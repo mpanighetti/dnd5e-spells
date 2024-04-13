@@ -13,7 +13,7 @@ The healing energy attempts to soothe the restless undead and allow them to move
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th-level or higher, the healing increases by 1d10 for each slot level above 5th.
 
-When you cast this spell using a spell slot of 7th-level or higher, the spell also ends the Cursed condition for all creatures healed by this spell. If any of those creatures are attuned to a cursed magic item, the spell breaks its owner's attunement to the object so it can be removed or discarded.
+When you cast this spell using a spell slot of 7th-level or higher, the spell also ends the Cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
 ---
 
