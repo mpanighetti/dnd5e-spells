@@ -53,7 +53,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 91-92 |    Verdan    |
 | 93-94 |   Warforged  |
 | 95-96 |   Yuan-ti    |
-| 97-100| Reroll on this table and take the new result. |
+| 97-100| Re-roll on this table and take the new result. |
 
 [^🧌]: The Giant Ancestry option was added in the _2024 Player's Handbook_. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_.
 
