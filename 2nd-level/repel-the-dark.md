@@ -1,6 +1,6 @@
 # Repel the Dark
 
-_2nd-level evocation/rhythmancy_
+_2nd-level evocation/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 action
 - **Range:** 30 feet
