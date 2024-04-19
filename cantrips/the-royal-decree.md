@@ -1,4 +1,4 @@
-# Royal Lullaby
+# The Royal Decree
 
 _Enchantment/rhythmancy cantrip_ (Bard)
 
