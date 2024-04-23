@@ -1,11 +1,12 @@
 # Tune of Ages
 
-_7th-level conjuration/rhythmancy_ (Bard)
+_7th-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 hour
 - **Range:** 30 feet
 - **Components:** V, S, M (a magic item or a willing creature from the destination time period; a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
+- **Classes:** Bard
 
 You and up to eight willing creatures within range are removed from your current time period and appear in the same physical location in another time period you choose.
 

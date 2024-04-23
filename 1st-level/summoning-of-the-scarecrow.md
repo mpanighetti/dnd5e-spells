@@ -1,11 +1,12 @@
 # Summoning of the Scarecrow
 
-_1st-level conjuration/rhythmancy_ (Bard)
+_1st-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet
 - **Components:** V, S, M (a handful of straw; a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
+- **Classes:** Bard
 
 A Medium-sized inanimate scarecrow appears anchored to the ground in an unoccupied space you can see within range. The destination must have at least enough space to accommodate the scarecrow, or the spell fails.
 

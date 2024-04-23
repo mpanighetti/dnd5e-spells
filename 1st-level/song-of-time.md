@@ -1,11 +1,12 @@
 # Song of Time
 
-_1st-level abjuration/rhythmancy_ (Bard)
+_1st-level abjuration/rhythmancy_
 
 - **Casting Time:** 1 action
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** 10 minutes
+- **Classes:** Bard
 
 You adjust the flow of time around you, granting you the ability to correct a recent mistake. Until this spell ends, if you fail on an attack roll, ability check, or Saving Throw, as a Reaction, you can immediately roll a d20 and take the greater of the two results. The first time you fail a check using this spell effect, the spell ends.
 

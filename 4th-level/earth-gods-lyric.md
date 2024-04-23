@@ -1,11 +1,12 @@
 # Earth God's Lyric
 
-_4th-level evocation/rhythmancy_ (Bard)
+_4th-level evocation/rhythmancy_
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp; a handful of soil from the Elemental Plane of Earth which the spell consumes)
 - **Duration:** 8 hours
+- **Classes:** Bard
 
 The notes you play resonate with the world under your feet, strengthening your bond to the earth. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
 

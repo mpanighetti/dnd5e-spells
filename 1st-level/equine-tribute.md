@@ -1,11 +1,12 @@
 # Equine Tribute
 
-_1st-level conjuration/rhythmancy_ (Bard)
+_1st-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
 - **Components:** V, S, M (a sprig of horse grass; a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
+- **Classes:** Bard
 
 You recant the tale of a great hero's beloved horse companion to endear yourself to a horse with an Intelligence score less than 10 within range; at the Game Master's discretion, you can target a creature other than a horse, as long as they are at least one size category larger than you and have an appropriate anatomy to serve as your mount. If the target is willing, is able to hear you, and remains within range for the entire casting of the spell, they are considered to be your companion.
 

@@ -1,11 +1,12 @@
 # The River Devil's Lament
 
-_6th-level enchantment/rhythmancy_ (Bard)
+_6th-level enchantment/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
 - **Components:** V, S, M (a musical instrument worth at least 1 gp; water from a river that flows backward which the spell consumes)
 - **Duration:** 8 hours
+- **Classes:** Bard
 
 You recite the tale of an ancient hero who drove away a great evil, in order to instill lasting terror in a creature you can see within range that can hear you. That creature must make a Wisdom Saving Throw. On a failed save, the target is Cursed for the duration of the spell. While Cursed in this manner, the creature is Frightened of you, and if the creature can see you at the start of their turn, they take 3d10 Psychic damage. Creatures that are normally immune to being Frightened are not immune to the Frightened condition caused by this spell's curse. While the Cursed creature cannot see you, they are Frightened of your last known location.
 

@@ -1,11 +1,12 @@
 # Mambo Marino
 
-_3rd-level conjuration/rhythmancy (Ritual)_ (Bard)
+_3rd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
 - **Components:** V, M (a mola scale; a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 8 hours
+- **Classes:** Bard
 
 You create a glowing 10-foot-diameter circle in the surface of a body of water you can see within range. The circle lasts for the spell's duration. At any time before the spell ends, as an action, you and any willing creatures you can see within 30 feet of you can attempt to teleport to the circle. If the circle is more than 1 mile away, or if the circle's space is occupied or cannot accommodate all the creatures you specify, the teleportation fails. Otherwise, any creatures teleported by this spell instantly appear within the circle, and the spell ends.
 

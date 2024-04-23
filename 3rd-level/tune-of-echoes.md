@@ -1,11 +1,12 @@
 # Tune of Echoes
 
-_3rd-level divination/rhythmancy (Ritual)_ (Bard)
+_3rd-level divination/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp, a harp string spun from gold worth 25 gp)
 - **Duration:** Concentration, up to 10 minutes
+- **Classes:** Bard
 
 You create an image in the air 10 feet in front of you depicting your current general location from a previous point in time. When you cast the spell, you decide whether the spell depicts a moment of historical significance, or a more specific moment in time you specify. If a moment of historical significance is selected, the Game Master picks the moment to depict, and if no historically significant moment has occurred in this location, the GM can depict any other moment in the past for the same location. If you pick a specific moment, you can be as vague or concrete as you like in your description of the moment, and the spell will attempt to reasonably carry out your request.
 

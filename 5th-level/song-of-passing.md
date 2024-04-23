@@ -1,11 +1,12 @@
 # Song of Passing
 
-_5th-level illusion/rhythmancy_ (Bard)
+_5th-level illusion/rhythmancy_
 
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
+- **Classes:** Bard
 
 You attempt to manipulate the apparent flow of time for a creature you target in range that can hear you. The target must make an Intelligence Saving Throw, and if you are fighting the target, they have advantage on the Saving Throw. On a failed save, until the spell ends, the target believes that time has passed such that it is either just after sunrise or just after sunset (whichever is the sooner of the two events).
 

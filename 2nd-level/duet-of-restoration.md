@@ -1,11 +1,12 @@
 # Duet of Restoration
 
-_2nd-level evocation/rhythmancy (Duet)_ (Bard)
+_2nd-level evocation/rhythmancy (Duet)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet (30-foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
+- **Classes:** Bard
 
 You and a partner play an uplifting duet, targeting a shared location within range. When the spell finishes casting, any creatures that remained within the spells' area of effect for the entire casting and were able to hear the entire composition gain the benefits of a Short Rest. A creature must complete a Long Rest before they can gain this benefit from this song again.
 

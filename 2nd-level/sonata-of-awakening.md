@@ -1,11 +1,12 @@
 # Sonata of Awakening
 
-_2nd-level abjuration/rhythmancy_ (Bard)
+_2nd-level abjuration/rhythmancy_
 
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Components:** V, M (a musical instrument worth at least 1 gp, a bell worth at least 5 gp)
 - **Duration:** Concentration, up to 1 minute
+- **Classes:** Bard
 
 You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
 

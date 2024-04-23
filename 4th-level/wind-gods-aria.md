@@ -1,11 +1,12 @@
 # Wind God's Aria
 
-_4th-level evocation/rhythmancy_ (Bard)
+_4th-level evocation/rhythmancy_
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp; a vial of air from the Elemental Plane of Air which the spell consumes)
 - **Duration:** 8 hours
+- **Classes:** Bard
 
 The notes you play resonate with the air around you, lifting you upward and granting you free movement.
 

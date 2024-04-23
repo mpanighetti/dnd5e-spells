@@ -1,11 +1,12 @@
 # Oath to Order
 
-_8th-level abjuration/rhythmancy_ (Bard)
+_8th-level abjuration/rhythmancy_
 
 - **Casting Time:** 8 hours
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)
 - **Duration:** 30 days
+- **Classes:** Bard
 
 You call upon the spirits of ancient giants to grant you the ability to repel massive bodies. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
 
