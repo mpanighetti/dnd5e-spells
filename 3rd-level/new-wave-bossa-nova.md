@@ -2,7 +2,7 @@
 
 _3rd-level abjuration/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** Self (10-foot sphere)
 - **Components:** V (functions even if you are in an area affected by magical silence), S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute

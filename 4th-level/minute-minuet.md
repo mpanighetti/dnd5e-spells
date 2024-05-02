@@ -2,7 +2,7 @@
 
 _4th-level transmutation/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 10 minutes

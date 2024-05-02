@@ -2,7 +2,7 @@
 
 _1st-level abjuration/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** 10 minutes
@@ -20,7 +20,7 @@ If desired, you can alter the performance of the Song of Time to a related compo
 
 ##### Inverted Song of Time
 
-**Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity Saving Throws, and you gain an additional action on each of your turns.
+**Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity Saving Throws, and you gain an additional Action on each of your turns.
 
 ---
 

@@ -2,7 +2,7 @@
 
 _Evocation/rhythmancy cantrip_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a sprig of hawk grass; a musical instrument worth at least 1 gp)
 - **Duration:** 1 round

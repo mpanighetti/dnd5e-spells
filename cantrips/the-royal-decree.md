@@ -2,7 +2,7 @@
 
 _Enchantment/rhythmancy cantrip_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 10 feet
 - **Components:** V, M (a petal from a silent princess flower; a musical instrument worth at least 1 gp)
 - **Duration:** 1 minute

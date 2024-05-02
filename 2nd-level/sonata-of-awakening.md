@@ -2,7 +2,7 @@
 
 _2nd-level abjuration/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, M (a musical instrument worth at least 1 gp, a bell worth at least 5 gp)
 - **Duration:** Concentration, up to 1 minute
