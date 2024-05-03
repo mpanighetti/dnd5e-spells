@@ -6,7 +6,7 @@ _5th-level evocation/rhythmancy_
 - **Range:** Self (30-foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard
+- **Classes:** Bard, Ranger (Wild Composer)
 
 You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
 

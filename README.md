@@ -17,7 +17,7 @@ Spells are arranged by spell level and listed alphabetically.
 | cantrip | _[The Hawk's Call](cantrips/the-hawks-call.md)_ | Evocation/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | cantrip | _[The Royal Decree](cantrips/the-royal-decree.md)_ | Enchantment/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 1st | _[Equine Tribute](1st-level/equine-tribute.md)_ | Conjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 1st | _[The Lost is Found](1st-level/the-lost-is-found.md)_ | Divination/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 1st | _[The Lost is Found](1st-level/the-lost-is-found.md)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 1st | _[Song of Storms](1st-level/song-of-storms.md)_ | Evocation/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 1st | _[Song of Time](1st-level/song-of-time.md)_[^🪈] | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 1st | _[Summoning of the Scarecrow](1st-level/summoning-of-the-scarecrow.md)_ | Conjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
@@ -27,23 +27,23 @@ Spells are arranged by spell level and listed alphabetically.
 | 2nd | _[Repel the Dark](2nd-level/repel-the-dark.md)_ | Evocation/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 2nd | _[Pass without Note](2nd-level/pass-without-note.md)_ | Enchantment | Bard, Sorcerer, Warlock, Wizard | Concentration | |
 | 2nd | _[Sonata of Awakening](2nd-level/sonata-of-awakening.md)_ | Abjuration/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 2nd | _[Song of Discovery](2nd-level/song-of-discovery.md)_ | Divination/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 2nd | _[Song of Discovery](2nd-level/song-of-discovery.md)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[Mambo Marino](3rd-level/mambo-marino.md)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[New Wave Bossa Nova](3rd-level/new-wave-bossa-nova.md)_ | Abjuration/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[Peaceful Lullaby](3rd-level/peaceful-lullaby.md)_ | Enchantment/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[Royal Duet](3rd-level/royal-duet.md)_ | Evocation/Rhythmancy | Bard | Duet | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[Song of Double Time](1st-level/song-of-time.md#song-of-double-time)_[^🪈] | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 3rd | _[Tune of Echoes](3rd-level/tune-of-echoes.md)_ | Divination/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 3rd | _[Wind's Requiem](3rd-level/winds-requiem.md)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 3rd | _[Wind's Requiem](3rd-level/winds-requiem.md)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 4th | _[Death's Departure](4th-level/deaths-departure.md)_ | Abjuration/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 4th | _[Earth God's Lyric](4th-level/earth-gods-lyric.md)_ | Evocation/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 4th | _[Earth God's Lyric](4th-level/earth-gods-lyric.md)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 4th | _[Minute Minuet](4th-level/minute-minuet.md)_ | Transmutation/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 4th | _[Soulful Croak](4th-level/soulful-croak.md)_ | Necromancy/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 4th | _[Space Warp](4th-level/space-warp.md)_ | Conjuration/Rhythmancy | Bard | Ritual | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 4th | _[Wind God's Aria](4th-level/wind-gods-aria.md)_ | Evocation/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 5th | _[Inverted Song of Time](1st-level/song-of-time.md#inverted-song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 5th | _[Melody of Darkness](5th-level/melody-of-darkness.md)_ | Necromancy/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| 5th | _[Song of Healing](5th-level/song-of-healing.md)_ | Evocation/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+| 5th | _[Song of Healing](5th-level/song-of-healing.md)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 5th | _[Song of Passing](5th-level/song-of-passing.md)_ | Illusion/Rhythmancy | Bard | Concentration | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 5th | _[Tune of Currents](5th-level/tune-of-currents.md)_ | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 6th | _[The River Devil's Lament](6th-level/the-river-devils-lament.md)_ | Enchantment/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |

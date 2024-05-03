@@ -6,7 +6,7 @@ _1st-level divination/rhythmancy (Ritual)_
 - **Range:** Self
 - **Components:** V, S, M (a branch or leaf from a tree you've climbed; a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
+- **Classes:** Bard, Ranger (Wild Composer)
 
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
 
