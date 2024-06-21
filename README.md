@@ -52,7 +52,7 @@ Spells are arranged by spell level and listed alphabetically.
 | 8th | _[Ballad of Gales](8th-level/ballad-of-gales.md)_ | Conjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 8th | _[Oath to Order](8th-level/oath-to-order.md)_ | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 
-[^🪈]: These rhythmancy songs are grouped as the Song of Time.
+[^🪈]: These rhythmancy songs are grouped as the _Song of Time_.
 
 #### Spell Options
 
@@ -66,7 +66,7 @@ Spells are arranged by spell level and listed alphabetically.
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from the _Systems Reference Document_:
+This content was written to be compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from _Systems Reference Document 5.1_:
 
 - "Species" is used in place of "race" and "ancestry" or "variant" in place of "subrace".
 - This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on Saving Throws made to resist that condition, and vulnerability to a condition means that a creature has Disadvantage on such Saving Throws.
@@ -81,13 +81,15 @@ Certain materials are included under fair use exemption of the U.S. Copyright La
 
 ## Third-Party Content References
 
-_Player's Handbook_ © 2014 Wizards of the Coast LLC.
+_Player's Handbook (2014)_ © 2014 Wizards of the Coast LLC.
 
-_Dungeon Master's Guide_ © 2014 Wizards of the Coast LLC.
+_Dungeon Master's Guide (2014)_ © 2014 Wizards of the Coast LLC.
 
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 _One Grung Above_ © 2017 Wizards of the Coast LLC.
+
+_Wayfinder's Guide to Eberron_ © 2017 Wizards of the Coast LLC.
 
 _Sword Coast Adventurer's Guide_ © 2018 Wizards of the Coast LLC.
 
@@ -115,6 +117,6 @@ _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
 
 _Dragonlance: Shadow of the Dragon Queen_ © 2022 Wizards of the Coast LLC.
 
-_2024 Player's Handbook_ © 2024 Wizards of the Coast LLC.
+_Player's Handbook (2024)_ © 2024 Wizards of the Coast LLC.
 
 Mike's Hard Lemonade is [based on a concept by utilitycaster](https://www.tumblr.com/utilitycaster/627121871606923264/dd-spells-named-for-the-wizard-who-developed-them).
