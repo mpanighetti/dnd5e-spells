@@ -4,7 +4,7 @@ _4th-level abjuration/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** Self (30-foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
 - **Classes:** Bard
 

@@ -4,7 +4,7 @@ _3rd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, M (a musical instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
+- **Components:** V, M (an instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard, Ranger (Wild Composer)
 

@@ -4,7 +4,7 @@ _4th-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 

@@ -4,7 +4,7 @@ _5th-level abjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, M (a musical instrument worth at least 1 gp; an item that tells time worth 200 gp which the spell consumes)
+- **Components:** V, M (an instrument worth at least 1 gp; an item that tells time worth 200 gp which the spell consumes)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 

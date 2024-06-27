@@ -4,7 +4,7 @@ _1st-level abjuration/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** 10 minutes
 - **Classes:** Bard
 

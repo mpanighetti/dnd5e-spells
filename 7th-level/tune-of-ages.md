@@ -4,7 +4,7 @@ _7th-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 hour
 - **Range:** 30 feet
-- **Components:** V, S, M (a magic item or a willing creature from the destination time period; a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (a magic item or a willing creature from the destination time period; an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 

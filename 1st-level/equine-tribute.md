@@ -4,7 +4,7 @@ _1st-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, S, M (a sprig of horse grass; a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (a sprig of horse grass; an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 

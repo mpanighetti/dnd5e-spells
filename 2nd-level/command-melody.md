@@ -4,7 +4,7 @@ _2nd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; objects belonging to you and the target creature worth a total of at least 1 sp which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; objects belonging to you and the target creature worth a total of at least 1 sp which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard
 

@@ -4,7 +4,7 @@ _Abjuration/rhythmancy cantrip_
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, M (a seagull's feather; a musical instrument worth at least 1 gp)
+- **Components:** V, M (a seagull's feather; an instrument worth at least 1 gp)
 - **Duration:** 10 minutes
 - **Classes:** Bard
 

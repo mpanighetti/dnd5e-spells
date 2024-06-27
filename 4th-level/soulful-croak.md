@@ -4,7 +4,7 @@ _4th-level necromancy/rhythmancy_
 
 - **Casting Time:** 1 hour
 - **Range:** 20 feet
-- **Components:** V, S, M (a recently deceased frog; a musical instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
+- **Components:** V, S, M (a recently deceased frog; an instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 

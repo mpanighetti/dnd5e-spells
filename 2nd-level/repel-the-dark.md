@@ -4,7 +4,7 @@ _2nd-level evocation/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
 - **Classes:** Bard
 

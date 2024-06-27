@@ -4,7 +4,7 @@ _3rd-level enchantment/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, M (a musical instrument worth at least 1 gp)
+- **Components:** V, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard
 

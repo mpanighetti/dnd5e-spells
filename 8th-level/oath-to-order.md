@@ -4,7 +4,7 @@ _8th-level abjuration/rhythmancy_
 
 - **Casting Time:** 8 hours
 - **Range:** Self
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)
 - **Duration:** 30 days
 - **Classes:** Bard
 

@@ -4,7 +4,7 @@ _5th-level evocation/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** Self (30-foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 - **Classes:** Bard, Ranger (Wild Composer)
 

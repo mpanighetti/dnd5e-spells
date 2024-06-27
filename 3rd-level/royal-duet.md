@@ -4,7 +4,7 @@ _3rd-level evocation/rhythmancy (Duet)_
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet (30-foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** 8 hours
 - **Classes:** Bard
 

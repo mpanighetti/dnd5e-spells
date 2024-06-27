@@ -4,7 +4,7 @@ _8th-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** Touch
-- **Components:** V, S, M (a musical instrument worth at least 1 gp, a vehicle that you are currently occupying worth at least 10 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp, a vehicle that you are currently occupying worth at least 10 gp)
 - **Duration:** 1 round
 - **Classes:** Bard
 

@@ -4,7 +4,7 @@ _2nd-level divination/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** Self (20-foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp, a magnifying glass worth at least 10 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp, a magnifying glass worth at least 10 gp)
 - **Duration:** Concentration, up to 10 minutes
 - **Classes:** Bard, Ranger (Wild Composer)
 

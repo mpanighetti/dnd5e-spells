@@ -4,7 +4,7 @@ _6th-level enchantment/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; water from a river that flows backward which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; water from a river that flows backward which the spell consumes)
 - **Duration:** 8 hours
 - **Classes:** Bard
 

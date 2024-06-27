@@ -4,7 +4,7 @@ _1st-level evocation/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet (1 mile if cast outdoors)
-- **Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard
 

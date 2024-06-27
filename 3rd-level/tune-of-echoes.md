@@ -4,7 +4,7 @@ _3rd-level divination/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** Self
-- **Components:** V, S, M (a musical instrument worth at least 1 gp, a harp string spun from gold worth 25 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp, a harp string spun from gold worth 25 gp)
 - **Duration:** Concentration, up to 10 minutes
 - **Classes:** Bard
 

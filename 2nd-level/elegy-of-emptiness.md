@@ -4,7 +4,7 @@ _2nd-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 5 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Until dispelled
 - **Classes:** Bard
 

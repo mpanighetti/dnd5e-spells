@@ -4,7 +4,7 @@ _3rd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, M (a mola scale; a musical instrument worth at least 1 gp)
+- **Components:** V, M (a mola scale; an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 8 hours
 - **Classes:** Bard
 
