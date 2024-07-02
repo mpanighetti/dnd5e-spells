@@ -12,7 +12,7 @@ You create an image in the air 10 feet in front of you depicting your current ge
 
 For the duration of the spell, the image plays out the selected moment in real time. The image can display any location within 100 feet of where the spell was cast, switching focus as needed to depict the selected moment as fully as possible. You can see and hear through the image as if you were present at that point in time. If, at any point during the playback of the selected moment, a magical effect was present which blocked detection through divination magic or being perceived through magical scrying sensors (such as with the _nondetection_ spell), the image becomes unfocused and the sound becomes distorted until such a time that the magical effect ended or was not present.
 
-Any number of times before the spell ends, as a Magic Action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
+Any number of times before the spell ends, as a Magic action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
 
 ---
 
