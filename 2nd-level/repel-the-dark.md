@@ -1,12 +1,11 @@
 # Repel the Dark
 
-_2nd-level evocation/rhythmancy_
+_2nd-level evocation/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard
 
 You summon the cleansing power of sunlight, causing creatures of the night to cower in fear. When you cast this spell, all Undead creatures and all creatures with sunlight sensitivity within range that can see you must succeed on a Constitution Saving Throw or become Stunned for the spell's duration. At the end of each of their turns, a creature Stunned by this spell can repeat the Saving Throw, ending the condition on a success.
 

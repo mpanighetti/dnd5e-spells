@@ -1,12 +1,11 @@
 # Song of Storms
 
-_1st-level evocation/rhythmancy_
+_1st-level evocation/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet (1 mile if cast outdoors)
 - **Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
 
 You summon a storm cloud that is 10 feet tall with a 20-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
 

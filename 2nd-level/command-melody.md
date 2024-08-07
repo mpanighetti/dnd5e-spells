@@ -1,12 +1,11 @@
 # Command Melody
 
-_2nd-level conjuration/rhythmancy (Ritual)_
+_2nd-level conjuration/rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp; objects belonging to you and the target creature worth a total of at least 1 sp which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
 
 You conduct a brief tune for a willing creature within range that can hear you. Until the spell ends, while the target is on the same plane of existence as you, both you and the target are magically linked to each other. A creature can only be linked to one other creature at a time using this spell.
 

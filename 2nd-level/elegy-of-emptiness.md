@@ -1,12 +1,11 @@
 # Elegy of Emptiness
 
-_2nd-level conjuration/rhythmancy_
+_2nd-level conjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 5 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Until dispelled
-- **Classes:** Bard
 
 You create a duplicate of your body in the form of an empty shell in an unoccupied space within range. This shell is an inanimate object exactly your height, weight, physical size, and body shape. Its appearance is superficially similar to that of your body and facial appearance, as well as any clothing you were wearing and any equipment you were carrying when casting the spell, though this false equipment is part of the shell's form and is not removable. The shell appears to be made of a hard stone-like material when touched. Its false body is fixed in a rigid standing position with its appendages resting at its sides. The shell is indestructible.
 

@@ -1,12 +1,11 @@
 # Minute Minuet
 
-_4th-level transmutation/rhythmancy_
+_4th-level transmutation/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 10 minutes
-- **Classes:** Bard
 
 You attempt to diminish a creature you can see within range that can hear you. The target makes a Constitution Saving Throw. On a failed save, until the spell ends, the target's size is reduced to one-fourth of normal in all dimensions, their weight is reduced to one-sixty-fourth of normal, and their size decreases by two categories (e.g. from Large to Small, minimum Tiny). On a successful save, the spell ends.
 

@@ -1,12 +1,11 @@
 # Soulful Croak
 
-_4th-level necromancy/rhythmancy_
+_4th-level necromancy/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 20 feet
 - **Components:** V, S, M (a recently deceased frog; an instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
 - **Duration:** Instantaneous
-- **Classes:** Bard
 
 You attempt to influence the life energy of a corpse or undead creature you can see within range. Make a spellcasting ability check. The target regains all of their Hit Points, then undergoes additional effects depending on the nature of the target and the result of your check:
 

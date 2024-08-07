@@ -1,12 +1,11 @@
 # Peaceful Lullaby
 
-_3rd-level enchantment/rhythmancy_
+_3rd-level enchantment/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
 
 You play a gentle melody in an attempt to lull a creature that can hear you in range. The target must succeed on a Wisdom Saving Throw or fall asleep and remain Unconscious until the spell ends, the target takes damage, or another creature takes an Action to wake them. Constructs and undead automatically succeed on this Saving Throw.
 

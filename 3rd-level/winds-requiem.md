@@ -1,12 +1,11 @@
 # Wind's Requiem
 
-_3rd-level conjuration/rhythmancy (Ritual)_
+_3rd-level conjuration/rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, M (an instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard, Ranger (Wild Composer)
 
 You create an unnatural strong wind at your back, overriding any existing wind direction affecting you. Until the spell ends, your jumping distance is tripled, and while you are on the deck of a sailing ship, it moves as if it is sailing with the wind. While concentrating on this spell, at the end of each of your turns, you can select a new direction for the winds around you to blow.
 

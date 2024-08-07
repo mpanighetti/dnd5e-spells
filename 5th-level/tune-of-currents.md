@@ -1,12 +1,11 @@
 # Tune of Currents
 
-_5th-level abjuration/rhythmancy_
+_5th-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
 - **Components:** V, M (an instrument worth at least 1 gp; an item that tells time worth 200 gp which the spell consumes)
 - **Duration:** Instantaneous
-- **Classes:** Bard
 
 You attempt to restore the normal flow of time for a creature within range. This spell can potentially remove the following temporal effects from the target:
 

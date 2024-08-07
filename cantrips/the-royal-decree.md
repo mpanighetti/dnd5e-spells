@@ -1,12 +1,11 @@
 # The Royal Decree
 
-_Enchantment/rhythmancy cantrip_
+_Enchantment/rhythmancy cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 10 feet
 - **Components:** V, M (a petal from a silent princess flower; an instrument worth at least 1 gp)
 - **Duration:** 1 minute
-- **Classes:** Bard
 
 Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have Proficiency in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
 
