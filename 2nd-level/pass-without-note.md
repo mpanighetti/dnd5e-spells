@@ -2,7 +2,7 @@
 
 _2nd-level enchantment_
 
-- **Casting Time:** 1 Action
+- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a scrap of garment common to your current setting and a dab of makeup applied to your face)
 - **Duration:** Concentration, up to 1 hour

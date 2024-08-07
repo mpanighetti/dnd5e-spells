@@ -2,7 +2,7 @@
 
 _2nd-level evocation_
  
-- **Casting time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a bottle of lemon-flavored malt beverage)
 - **Duration:** 1 minute
