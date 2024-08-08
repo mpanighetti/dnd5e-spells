@@ -52,7 +52,7 @@ Spells are arranged by spell level and listed alphabetically.
 | 8th | _[Ballad of Gales](8th-level/ballad-of-gales.md)_ | Conjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 | 8th | _[Oath to Order](8th-level/oath-to-order.md)_ | Abjuration/Rhythmancy | Bard | | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
 
-[^🪈]: These rhythmancy songs are grouped as the _Song of Time_.
+[^🪈]: These Rhythmancy songs are grouped as the _Song of Time_.
 
 #### Spell Options
 

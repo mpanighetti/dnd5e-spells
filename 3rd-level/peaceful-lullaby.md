@@ -1,6 +1,6 @@
 # Peaceful Lullaby
 
-_3rd-level enchantment/rhythmancy_ (Bard)
+_3rd-level Enchantment/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet

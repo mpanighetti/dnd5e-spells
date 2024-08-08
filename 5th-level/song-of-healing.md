@@ -1,6 +1,6 @@
 # Song of Healing
 
-_5th-level evocation/rhythmancy_ (Bard, Ranger (Wild Composer))
+_5th-level Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self (30-foot sphere)

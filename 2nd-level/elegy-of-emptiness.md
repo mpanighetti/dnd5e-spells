@@ -1,6 +1,6 @@
 # Elegy of Emptiness
 
-_2nd-level conjuration/rhythmancy_ (Bard)
+_2nd-level Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 5 feet

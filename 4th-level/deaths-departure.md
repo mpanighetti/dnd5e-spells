@@ -1,6 +1,6 @@
 # Death's Departure
 
-_4th-level abjuration/rhythmancy_ (Bard)
+_4th-level Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (30-foot sphere)

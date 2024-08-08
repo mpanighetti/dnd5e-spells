@@ -1,6 +1,6 @@
 # Mambo Marino
 
-_3rd-level conjuration/rhythmancy (Ritual)_ (Bard)
+_3rd-level Conjuration/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet

@@ -1,6 +1,6 @@
 # Space Warp
 
-_4th-level conjuration/rhythmancy (Ritual)_ (Bard)
+_4th-level Conjuration/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet

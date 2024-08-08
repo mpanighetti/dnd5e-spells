@@ -1,6 +1,6 @@
 # Earth God's Lyric
 
-_4th-level evocation/rhythmancy_ (Bard, Ranger (Wild Composer))
+_4th-level Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 10 minutes
 - **Range:** Self

@@ -1,6 +1,6 @@
 # Oath to Order
 
-_8th-level abjuration/rhythmancy_ (Bard)
+_8th-level Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 8 hours
 - **Range:** Self

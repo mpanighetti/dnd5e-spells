@@ -1,6 +1,6 @@
 # Minute Minuet
 
-_4th-level transmutation/rhythmancy_ (Bard)
+_4th-level Transmutation/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet

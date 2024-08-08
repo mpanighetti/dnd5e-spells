@@ -1,6 +1,6 @@
 # Mike's Hard Lemonade
 
-_2nd-level evocation_ (Artificer (Alchemist))
+_2nd-level Evocation_ (Artificer (Alchemist))
 
 - **Casting Time:** Action
 - **Range:** 30 feet
