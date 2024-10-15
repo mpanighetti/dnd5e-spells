@@ -4,10 +4,10 @@ _Level 2 Enchantment_ (Bard, Sorcerer, Warlock, Wizard)
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, S, M (a scrap of garment common to your current setting and a dab of makeup applied to your face)
+- **Components:** V, S, M (a scrap of garment common to the current social setting and a dab of makeup applied to your face)
 - **Duration:** Concentration, up to 1 hour
 
-A veil of irrelevance radiates from you, masking you and your companions from notice in social situations. To casual observers, you appear unremarkable and uninteresting compared to other people in the setting, and they have difficulty recalling anything noteworthy about your appearance or presence. For the duration, each creature you choose within 30 feet of you has a +10 bonus to Charisma (Persuasion) and Charisma (Performance) checks made to go unnoticed, and can't be observed socially except by magical means, such as Divination spells. This bonus is not applied when making a contested check against a creature immune to the Charmed condition.
+You radiate an aura of irrelevance in a 30-foot Emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to Charisma checks made to be dismissed or go unnoticed socially, appearing unremarkable and uninteresting compared to other people in the setting. Creatures who fail checks to notice you have difficulty recalling anything noteworthy about your appearance or presence. Creatures who are immune to the Charmed condition ignore the spell's bonus to Charisma checks when making contested checks.
 
 ---
 
