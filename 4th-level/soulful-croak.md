@@ -1,6 +1,6 @@
 # Soulful Croak
 
-_4th-level Necromancy/Rhythmancy_ (Bard)
+_Level 4 Necromancy/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 20 feet

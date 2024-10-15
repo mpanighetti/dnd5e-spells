@@ -1,6 +1,6 @@
 # The Lost is Found
 
-_1st-level Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
+_Level 1 Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self

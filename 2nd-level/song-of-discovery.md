@@ -1,6 +1,6 @@
 # Song of Discovery
 
-_2nd-level Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
+_Level 2 Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self (20-foot sphere)

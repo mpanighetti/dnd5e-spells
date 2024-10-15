@@ -1,6 +1,6 @@
 # Tune of Echoes
 
-_3rd-level Divination/Rhythmancy (Ritual)_ (Bard)
+_Level 3 Divination/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Self

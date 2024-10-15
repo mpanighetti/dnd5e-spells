@@ -1,6 +1,6 @@
 # The Hawk's Call
 
-_Evocation/Rhythmancy cantrip_ (Bard)
+_Evocation/Rhythmancy Cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet

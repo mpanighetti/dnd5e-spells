@@ -1,6 +1,6 @@
 # Duet of Restoration
 
-_2nd-level Evocation/Rhythmancy (Duet)_ (Bard)
+_Level 2 Evocation/Rhythmancy (Duet)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet (30-foot sphere)

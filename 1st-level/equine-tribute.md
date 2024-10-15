@@ -1,6 +1,6 @@
 # Equine Tribute
 
-_1st-level Conjuration/Rhythmancy_ (Bard)
+_Level 1 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet

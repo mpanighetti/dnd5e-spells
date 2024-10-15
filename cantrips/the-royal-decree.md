@@ -1,6 +1,6 @@
 # The Royal Decree
 
-_Enchantment/Rhythmancy cantrip_ (Bard)
+_Enchantment/Rhythmancy Cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 10 feet

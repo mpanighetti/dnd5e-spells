@@ -1,6 +1,6 @@
 # Wind God's Aria
 
-_4th-level Evocation/Rhythmancy_ (Bard)
+_Level 4 Evocation/Rhythmancy_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** Self

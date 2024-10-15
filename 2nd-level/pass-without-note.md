@@ -1,6 +1,6 @@
 # Pass Without Note
 
-_2nd-level Enchantment_ (Bard, Sorcerer, Warlock, Wizard)
+_Level 2 Enchantment_ (Bard, Sorcerer, Warlock, Wizard)
 
 - **Casting Time:** Action
 - **Range:** Self

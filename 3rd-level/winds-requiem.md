@@ -1,6 +1,6 @@
 # Wind's Requiem
 
-_3rd-level Conjuration/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
+_Level 3 Conjuration/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** Action
 - **Range:** Self
