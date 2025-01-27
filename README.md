@@ -18,6 +18,7 @@ Spells are arranged by spell level and listed alphabetically.
 | cantrip | _[The Royal Decree](cantrips/the-royal-decree.md)_ | Enchantment/Rhythmancy | Bard | | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
 | 1st | _[Equine Tribute](1st-level/equine-tribute.md)_ | Conjuration/Rhythmancy | Bard | | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
 | 1st | _[The Lost is Found](1st-level/the-lost-is-found.md)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
+| 1st | _[Kyran's Gambit](1st-level/kyrans-gambit.md)_ | Abjuration | Rogue (Arcane Trickster), Warlock | Concentration | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 | 1st | _[Song of Storms](1st-level/song-of-storms.md)_ | Evocation/Rhythmancy | Bard | Concentration | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
 | 1st | _[Song of Time](1st-level/song-of-time.md)_[^🪈] | Abjuration/Rhythmancy | Bard | | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
 | 1st | _[Summoning of the Scarecrow](1st-level/summoning-of-the-scarecrow.md)_ | Conjuration/Rhythmancy | Bard | | _[Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy)_ |
